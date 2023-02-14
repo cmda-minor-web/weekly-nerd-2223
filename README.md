@@ -34,6 +34,30 @@ Bijvoorbeeld een eigen onderzoek naar een techniek of een (technische) analyse v
         <td>Deanne Bosschert</td>
         <td>15 februari</td>
     </tr>
+    <tr>
+        <td>Wordt vervolgd...</td>
+        <td>22 februari</td>
+    </tr>
+    <tr>
+        <td>Wordt vervolgd...</td>
+        <td>8 maart</td>
+    </tr>
+    <tr>
+        <td>Servin Nissen</td>
+        <td>22 maart</td>
+    </tr>
+    <tr>
+        <td>Aaron Gustafson</td>
+        <td>30 maart</td>
+    </tr>
+    <tr>
+        <td>Wordt vervolgd...</td>
+        <td>19 april</td>
+    </tr>
+    <tr>
+        <td>Wordt vervolgd...</td>
+        <td>26 april</td>
+    </tr>
 </table>
 
 
