@@ -31,8 +31,8 @@ Bijvoorbeeld een eigen onderzoek naar een techniek of een (technische) analyse v
         <th>Datum</th>
     </tr>
     <tr>
-        <td>Deanne Bosschert</td>
-        <td>15 februari</td>
+        <td>Susan Lau</td>
+        <td>17 februari / 12:00 - 13:00</td>
     </tr>
     <tr>
         <td>Wordt vervolgd...</td>
