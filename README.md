@@ -35,15 +35,15 @@ Bijvoorbeeld een eigen onderzoek naar een techniek of een (technische) analyse v
         <td>17 februari / 12:00 - 13:00</td>
     </tr>
     <tr>
-        <td>Wordt vervolgd...</td>
-        <td>22 februari</td>
+        <td>Deanna Bosschert.</td>
+        <td>22 februari / 16:00 - 17:00</td>
     </tr>
     <tr>
         <td>Wordt vervolgd...</td>
         <td>8 maart</td>
     </tr>
     <tr>
-        <td>Servin Nissen</td>
+        <td>Servin Nissen 16:00 - 17:00</td>
         <td>22 maart</td>
     </tr>
     <tr>
