@@ -39,12 +39,12 @@ Bijvoorbeeld een eigen onderzoek naar een techniek of een (technische) analyse v
         <td>22 februari / 16:00 - 17:00</td>
     </tr>
     <tr>
-        <td>Wordt vervolgd...</td>
-        <td>8 maart</td>
+        <td>Chazz Mannering.</td>
+        <td>15 maart / 16:00 - 17:00</td>
     </tr>
     <tr>
-        <td>Servin Nissen 16:00 - 17:00</td>
-        <td>22 maart</td>
+        <td>Cyd Stumpel.</td>
+        <td>22 maart / 16:00 - 17:00</td>
     </tr>
     <tr>
         <td>Aaron Gustafson</td>
