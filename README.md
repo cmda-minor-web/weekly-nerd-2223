@@ -47,11 +47,15 @@ Bijvoorbeeld een eigen onderzoek naar een techniek of een (technische) analyse v
         <td>22 maart / 16:00 - 17:00</td>
     </tr>
     <tr>
-        <td>Aaron Gustafson</td>
+        <td>Aaron Gustafson.</td>
         <td>30 maart</td>
     </tr>
     <tr>
-        <td>Wordt vervolgd...</td>
+        <td>Niels Leenheer.</td>
+        <td>12 april</td>
+    </tr>
+    <tr>
+        <td>Hidde de Vries.</td>
         <td>19 april</td>
     </tr>
     <tr>
