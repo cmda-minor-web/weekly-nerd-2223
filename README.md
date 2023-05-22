@@ -35,40 +35,40 @@ Bijvoorbeeld een eigen onderzoek naar een techniek of een (technische) analyse v
         <td>17 februari / 12:00 - 13:00</td>
     </tr>
     <tr>
-        <td>Deanna Bosschert.</td>
+        <td>Deanna Bosschert</td>
         <td>22 februari / 16:00 - 17:00</td>
     </tr>
     <tr>
-        <td>Chazz Mannering.</td>
+        <td>Chazz Mannering</td>
         <td>15 maart / 16:00 - 17:00</td>
     </tr>
     <tr>
-        <td>Cyd Stumpel.</td>
+        <td>Cyd Stumpel</td>
         <td>22 maart / 16:00 - 17:00</td>
     </tr>
     <tr>
-        <td>Aaron Gustafson.</td>
+        <td>Aaron Gustafson</td>
         <td>30 maart</td>
     </tr>
     <tr>
-        <td>Niels Leenheer.</td>
-        <td>12 april</td>
+        <td>Niels Leenheer</td>
+        <td>12 april 16:00 - 17:00</td>
     </tr>
     <tr>
         <td>Hidde de Vries.</td>
-        <td>19 april</td>
+        <td>19 april 16:00 - 17:00</td>
     </tr>
     <tr>
         <td>Level30Wizards</td>
-        <td>26 april</td>
+        <td>26 april 16:00 - 17:00</td>
     </tr>
     <tr>
         <td>NXT Museum</td>
-        <td>15 mei</td>
+        <td>15 mei / vanaf 13:00</td>
     </tr>
     <tr>
         <td>Brian Buwuah</td>
-        <td>22 mei</td>
+        <td>22 mei / 16:00 - 17:00</td>
     </tr>
 </table>
 
