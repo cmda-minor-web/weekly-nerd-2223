@@ -59,8 +59,16 @@ Bijvoorbeeld een eigen onderzoek naar een techniek of een (technische) analyse v
         <td>19 april</td>
     </tr>
     <tr>
-        <td>Wordt vervolgd...</td>
+        <td>Level30Wizards</td>
         <td>26 april</td>
+    </tr>
+    <tr>
+        <td>NXT Museum</td>
+        <td>15 mei</td>
+    </tr>
+    <tr>
+        <td>Brian Buwuah</td>
+        <td>22 mei</td>
     </tr>
 </table>
 
